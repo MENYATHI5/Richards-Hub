@@ -15,7 +15,7 @@ export default function About() {
             <div className="space-y-6">
               <div className="bg-blue-50 p-8 rounded-lg border-l-4 border-primary">
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  "Sometimes it's not that you don't meet the requirements, it's how you present yourself on paper."
+                  "Sometimes it&apos;s not that you don&apos;t meet the requirements, it&apos;s how you present yourself on paper."
                 </p>
                 <p className="text-sm text-gray-600 mt-4 italic">
                   - This realization changed everything
@@ -23,7 +23,7 @@ export default function About() {
               </div>
 
               <p className="text-gray-700 leading-relaxed">
-                Mbuyelo Nyathi, a passionate full-stack developer and CV consultant, noticed a critical gap in the job market. Talented individuals were losing opportunities not because they lacked skills, but because their CVs didn't showcase their true potential.
+                Mbuyelo Nyathi, a passionate full-stack developer and CV consultant, noticed a critical gap in the job market. Talented individuals were losing opportunities not because they lacked skills, but because their CVs didn&apos;t showcase their true potential.
               </p>
 
               <p className="text-gray-700 leading-relaxed">
@@ -31,11 +31,11 @@ export default function About() {
               </p>
 
               <p className="text-gray-700 leading-relaxed">
-                The company is named in honor of Richard Nyathi, Mbuyelo's late father, whose legacy of helping others and striving for excellence continues to inspire this mission.
+                The company is named in honor of Richard Nyathi, Mbuyelo&apos;s late father, whose legacy of helping others and striving for excellence continues to inspire this mission.
               </p>
 
               <p className="text-gray-700 leading-relaxed">
-                Today, Richard's CV Perfect is dedicated to transforming CVs into powerful tools that open doors. We believe every qualified candidate deserves a chance, and we're here to make sure your CV gives you that chance.
+                Today, Richards hub is dedicated to transforming CVs into powerful tools that open doors. We believe every qualified candidate deserves a chance, and we&apos;re here to make sure your CV gives you that chance.
               </p>
             </div>
 
@@ -84,7 +84,7 @@ export default function About() {
             <p className="text-gray-600">Full-Stack Developer & CV Consultant</p>
             <p className="text-gray-600 mt-2">Founder of Richards hub</p>
             <p className="text-sm text-gray-500 mt-4 italic">
-              Dedicated to honoring Richard's legacy by helping others succeed
+              Dedicated to honoring Richard&apos;s legacy by helping others succeed
             </p>
           </div>
         </div>
