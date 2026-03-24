@@ -1,5 +1,7 @@
 'use client';
 
+// About component for Richards hub CV editing service
+
 export default function About() {
   return (
     <section id="about" className="py-20 bg-white">
