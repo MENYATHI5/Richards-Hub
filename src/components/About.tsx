@@ -7,7 +7,7 @@ export default function About() {
         <div className="max-w-4xl mx-auto">
           <h2 className="section-title">Our Story</h2>
           <p className="section-subtitle">
-            How Richard's CV Perfect was born from a passion to help
+            How Richard&apos;s CV Perfect was born from a passion to help
           </p>
 
           <div className="grid md:grid-cols-2 gap-12 items-center mt-12">
@@ -15,7 +15,7 @@ export default function About() {
             <div className="space-y-6">
               <div className="bg-blue-50 p-8 rounded-lg border-l-4 border-primary">
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  "Sometimes it&apos;s not that you don&apos;t meet the requirements, it&apos;s how you present yourself on paper."
+                  &quot;Sometimes it&apos;s not that you don&apos;t meet the requirements, it&apos;s how you present yourself on paper.&quot;
                 </p>
                 <p className="text-sm text-gray-600 mt-4 italic">
                   - This realization changed everything
